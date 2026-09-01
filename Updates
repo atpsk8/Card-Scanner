@@ -1,0 +1,3 @@
+//need to create a checkmark select option on all images.
+//need it to autodetect blurry images and flag them giving a red font when noticed. 
+//need it to do a better job at detecting the card
